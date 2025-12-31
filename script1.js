@@ -72,5 +72,8 @@ else if (normalizedName === "anirban") {
 }else if (normalizedName === "aniket") {
   message =
     "Two Anikets exist.\nPlease refresh and enter your full name, bhai.";
+}else if (normalizedName === "rishita") {
+  message =
+    "Happy new year bonu ! We don't talk that often nowadays but I just want to know I'm always a text or call away if you need me ! Have a blast :)";
 }
 messagePara.textContent = message;
