@@ -58,7 +58,7 @@ if(normalizedName === "aniket narayan biswas") {
 } 
 else if (normalizedName === "anirban") {
   message =
-    "Anirban,\nEven if we talk less, you’re still close to me.\nAll the best, future doctor.";
+    "Even if we talk less, you’re still close to me.\nAll the best, future doctor.";
 } else if (normalizedName === "sudeshna") {
   message =
     "Sudeshna,\nThanks for being there in tough times.\nNever hesitate to ask for help. Happy new year ! Also bhai keo happy new year ! Keep up the good work ami tor support e achi :)";
