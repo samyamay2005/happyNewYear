@@ -51,7 +51,7 @@ if(normalizedName === "aniket narayan biswas") {
     "Purbasa,\nthanks for the year long supposrt you gave me especially in tough times :)\nSachhe dil se shukriya. Happy new year ! Khush raho (touchwood)";
 } else if (normalizedName === "swastik") {
   message =
-    "Dear Swastik,\nPick my calls more often.\nCheers to another year of friendship and lets make Lancers propell. Happy new year !";
+    "Dear Swastik(Better call Nigga),\nPick my calls more often.\nCheers to another year of friendship and lets make Lancers propell. Happy new year !";
 } else if (normalizedName === "suprojit") {
   message =
     "Supro,\nFrom class to COD to hackathons — absolute wingman.\nLet’s win together and build Lancers together. Happy new year !";
